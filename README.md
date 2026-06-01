@@ -5,7 +5,7 @@ This repository contains the tasks, projects, and deliverables completed during 
 
 ## Contents
 - Task 1: AI Research Presentation
-- Task 2
+- Task 2: Prompt Engineering Practice
 - Task 3
 - Additional internship assignments and project work
 
